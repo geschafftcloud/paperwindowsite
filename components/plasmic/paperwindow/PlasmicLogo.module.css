@@ -1,0 +1,32 @@
+.root {
+  width: auto;
+  font-style: italic;
+  font-weight: 900;
+  font-size: 30px;
+  color: rgba(0, 0, 0, 0.1) /* plasmic-token: 9AWN-rYzsFoW */;
+  padding-right: 6px;
+  position: relative;
+  text-align: center;
+  display: inline-block;
+  background: radial-gradient(
+      ellipse 53% 43% at 56% 37%,
+      #00b1ff 0%,
+      #0033ff 100%
+    )
+    scroll;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .root {
+    font-size: 22px;
+  }
+}
+.root__title {
+  font-size: 96px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .root__title {
+    font-size: 50px;
+  }
+}

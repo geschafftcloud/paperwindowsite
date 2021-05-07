@@ -1,0 +1,108 @@
+.root {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  position: relative;
+  flex-direction: column;
+  min-width: 0;
+  min-height: 0;
+}
+.box__jp8Mj {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  width: 100%;
+  min-width: 0;
+}
+.box__jp8Mj > :global(.__wab_flex-container) {
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  margin-top: calc(0px - 32px);
+  height: calc(100% + 32px);
+}
+.box__jp8Mj > :global(.__wab_flex-container) > *,
+.box__jp8Mj > :global(.__wab_flex-container) > :global(.__wab_slot) > * {
+  margin-top: 32px;
+}
+.box__rkXc1 {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  width: 100%;
+  max-width: 1000px;
+  min-width: 0;
+}
+.box__rkXc1 > :global(.__wab_flex-container) {
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  margin-top: calc(0px - 32px);
+  height: calc(100% + 32px);
+}
+.box__rkXc1 > :global(.__wab_flex-container) > *,
+.box__rkXc1 > :global(.__wab_flex-container) > :global(.__wab_slot) > * {
+  margin-top: 32px;
+}
+.box__jeolY {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+}
+.box__v3Q4A {
+  font-size: 96px;
+  font-weight: 700;
+  text-align: center;
+  line-height: 1;
+  color: rgb(5, 5, 5) /* plasmic-token: NEon4Y--Z */;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .box__v3Q4A {
+    font-size: 48px;
+  }
+}
+.box__hfunny__v3Q4Arb7Da {
+  font-size: 55px;
+  margin-bottom: -29px;
+  font-style: italic;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .box__hfunny__v3Q4Arb7Da {
+    font-size: 30px;
+    margin-bottom: -12px;
+  }
+}
+.logo:global(.__wab_instance) {
+  position: relative;
+}
+.box__hVcHp {
+  position: relative;
+  font-size: 20px;
+  text-align: center;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .box__hVcHp {
+    font-size: 24px;
+  }
+}
+.box___7F9FP {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+}
+.box___7F9FP > :global(.__wab_flex-container) {
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  margin-left: calc(0px - 12px);
+  width: calc(100% + 12px);
+}
+.box___7F9FP > :global(.__wab_flex-container) > *,
+.box___7F9FP > :global(.__wab_flex-container) > :global(.__wab_slot) > * {
+  margin-left: 12px;
+}
+.linkButton:global(.__wab_instance) {
+  position: relative;
+}
